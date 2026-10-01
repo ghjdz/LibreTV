@@ -3,10 +3,10 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "乐播资源",
-      "name": "📽乐播┃影视",
+      "key": "奥斯卡资源",
+      "name": "📽奥斯卡┃影视",
       "type": 1,
-      "api": "https://lebozy.com/api.php/provide/vod/",
+      "api": "https://raw.githubusercontent.com/ghjdz/LibreTV/refs/heads/main/vercel.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
