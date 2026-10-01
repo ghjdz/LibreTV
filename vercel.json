@@ -1,12 +1,15 @@
-{
-  "rewrites": [
+ {
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
     {
-      "source": "/proxy/:path*",
-      "destination": "/api/proxy/:path*"
-    },
-    {
-      "source": "/s=:query",
-      "destination": "/index.html"
+      "key": "乐播资源",
+      "name": "📽乐播┃影视",
+      "type": 3,
+      "api": "https://lebozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ]
 }
