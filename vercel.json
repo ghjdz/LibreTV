@@ -6,7 +6,7 @@
       "key": "奥斯卡资源",
       "name": "📽奥斯卡┃影视",
       "type": 1,
-      "api": "https://raw.githubusercontent.com/ghjdz/LibreTV/refs/heads/main/vercel.json",
+      "api": "https://aosikazy1.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
