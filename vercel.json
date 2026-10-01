@@ -3,10 +3,10 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "奥斯卡资源",
-      "name": "📽奥斯卡┃影视",
+      "key": "精品98资源",
+      "name": "📽精品98┃影视",
       "type": 2,
-      "api": "https://aosikazy1.com/api.php/provide/vod/",
+      "api": "https://jp98.vip/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
